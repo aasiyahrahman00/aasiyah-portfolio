@@ -1,32 +1,27 @@
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Aasiyah Rahman - Computer Science E-Portfolio
 
+This repository contains my Computer Science e-portfolio and technical project work.
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
+The portfolio includes:
+- University coursework and module artefacts
+- Programming and web development projects
+- Independent technical practice and experimentation
+- Reflections, documentation and skills development
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Areas Included
+- Programming
+- Web Development
+- Technical Projects
+- Professional Development
+- Academic Work
 
-(* = not included)
+## Technologies and Skills
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Responsive Design
+- Git and GitHub
 
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Purpose
+This portfolio documents my progression as a Computer Science student and developer through practical projects, coursework and independent learning.
