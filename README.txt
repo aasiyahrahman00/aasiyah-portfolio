@@ -1,5 +1,7 @@
 # Aasiyah Rahman - Computer Science E-Portfolio
 
+🔗 Live Portfolio: https://aasiyahrahman00.github.io/aasiyah-portfolio/
+
 This repository contains my Computer Science e-portfolio and technical project work.
 
 The portfolio includes:
