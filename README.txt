@@ -1,51 +1,40 @@
-# Aasiyah Rahman - Computer Science E-Portfolio
+# Aasiyah Rahman — Computer Science E-Portfolio
 
-🔗 Live Portfolio: https://aasiyahrahman00.github.io/aasiyah-portfolio/
+A portfolio documenting my Computer Science coursework, technical projects and independent learning as I build towards a career in cloud infrastructure and Site Reliability Engineering.
 
-This repository contains my Computer Science e-portfolio, technical projects and independent development work completed throughout my degree and self-study journey.
+🔗 **Live Portfolio:** https://aasiyahrahman00.github.io/aasiyah-portfolio/
 
-The portfolio documents my progression from foundational programming and front-end development towards automation, scripting, cloud and Site Reliability Engineering (SRE)-focused skills.
+---
 
-## Included in the Portfolio
-
-- University coursework and module artefacts
-- Python programming projects
-- HTML, CSS and JavaScript web projects
-- Bash scripting and automation projects
-- GitHub project documentation and READMEs
-- Professional development reflections and technical notes
-
-## Example Projects
+## Projects
 
 - Cozy Calculator Web App
 - Cozy Quiz App
 - Python and Bash File Organiser
 - Python Financial Tracker
-- The Bunny and the Golden Key text adventure game
+- The Bunny and the Golden Key — Python text adventure
 - Responsive HTML/CSS practice projects
 
-## Technologies and Skills
+---
 
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- Bash
-- Git and GitHub
-- Responsive Design
-- File Handling and Automation
-- Basic Linux Command Line Skills
+## Built With
+
+HTML5, CSS3, JavaScript, Python, Bash, Git, GitHub, GitHub Pages
+
+---
 
 ## Current Learning Focus
 
-I am currently developing skills in:
-- Linux and Bash scripting
-- Python automation
+- Linux command line and Bash scripting
+- Python automation and scripting
+- Cloud fundamentals and AWS basics
 - Git and version control
-- Web development
-- System monitoring and scripting fundamentals
-- Cloud and SRE concepts
+- Site Reliability Engineering concepts
 
-## Purpose
+---
 
-The purpose of this portfolio is to document my technical growth through practical projects, coursework and independent experimentation. The repository also acts as a long-term record of my progression towards cloud, infrastructure and Site Reliability Engineering related roles.
+## About
+
+This portfolio brings together my university work, personal projects and self-directed technical learning in one place. It tracks my progression from foundational web development and Python towards automation, scripting and cloud — the skills I'm building towards a long-term role in SRE or infrastructure.
+
+Still actively developing. New projects added as I build them.
